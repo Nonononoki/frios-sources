@@ -1,0 +1,48 @@
+{
+    "org.xbmc.kodi-tvos": {
+        "url": "https://mirrors.kodi.tv/releases/darwin/tvos/",
+        "name": "Kodi",
+        "website": "https://kodi.tv/",
+        "source": "kodi",
+        "file": "deb",
+        "category": "entertainment",
+        "icon": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/darwin/packaging/media/ios/squared/AppIcon76x76%402x.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estuary/resources/screenshot-01.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estuary/resources/screenshot-05.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estouchy/resources/screenshot-01.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estouchy/resources/screenshot-07.jpg"
+        ],
+        "description": {
+            "en": "Kodi is an award-winning free and open source software media player and entertainment hub for digital media. Available as a native application for Android, Linux, BSD, macOS, iOS, tvOS and Windows operating systems, Kodi runs on most common processor architectures. \n Created in 2003 by a group of like minded programmers, Kodi is a non-profit project run by the XBMC Foundation and developed by volunteers located around the world. More than 500 software developers have contributed to Kodi to date, and 100-plus translators have worked to expand its reach, making it available in more than 70 languages. \n While Kodi functions very well as a standard media player application for your computer, it has been designed to be the perfect companion for your HTPC. With its beautiful interface and powerful skinning engine, Kodi feels very natural to use from the couch with a remote control and is the ideal solution for your home theater."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "com.libretro.RetroArch": {
+        "url": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/",
+        "name": "Retroarch",
+        "website": "https://www.retroarch.com/",
+        "source": "retroarch",
+        "file": "ipa",
+        "category": "game",
+        "icon": "https://raw.githubusercontent.com/libretro/RetroArch/master/media/icons/playstore/icon.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png"
+        ],
+        "description": {
+            "en": "Retro games and emulators on your device! \n \n RetroArch is an open-source project that makes use of a powerful development interface called Libretro. Libretro is an interface that allows you to make cross-platform applications that can use rich features such as OpenGL, cross-platform camera support, location support, and more in the future. \n It comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment. \n Libretro and RetroArch are perfectly suited for creating games, emulators and multimedia programs."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    }
+}

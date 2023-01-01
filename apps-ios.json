@@ -1,0 +1,225 @@
+{
+    "com.alovoa.alovoa-expo": {
+        "url": "https://github.com/Alovoa/alovoa-expo",
+        "name": "Alovoa",
+        "website": "https://alovoa.com",
+        "source": "github",
+        "file": "ipa",
+        "category": "dating",
+        "icon": "https://raw.githubusercontent.com/Alovoa/alovoa-expo/master/assets/icon.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/Alovoa/alovoa-expo/master/fastlane/metadata/android/en-US/images/phoneScreenshots/p1.png"
+        ],
+        "description": {
+            "en": "Native Android application for Alovoa, the open-source dating platform. \n \n Alovoa aims to be the first global open-source platform that enables people to easily find new friends and dates. \n Our promises: \n • No microtransaction \n • No annoying ads \n • No selling your data \n • Strict filters, only see people you want to see \n • Completely free (as in free speech) \n • Completely free (as in free beer)"
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "org.xbmc.kodi-ios": {
+        "url": "https://mirrors.kodi.tv/releases/darwin/ios-arm64/",
+        "name": "Kodi",
+        "website": "https://kodi.tv/",
+        "source": "kodi",
+        "file": "deb",
+        "category": "entertainment",
+        "icon": "https://raw.githubusercontent.com/xbmc/xbmc/master/tools/darwin/packaging/media/ios/squared/AppIcon76x76%402x.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estuary/resources/screenshot-01.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estuary/resources/screenshot-05.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estouchy/resources/screenshot-01.jpg",
+            "https://raw.githubusercontent.com/xbmc/xbmc/master/addons/skin.estouchy/resources/screenshot-07.jpg"
+        ],
+        "description": {
+            "en": "Kodi is an award-winning free and open source software media player and entertainment hub for digital media. Available as a native application for Android, Linux, BSD, macOS, iOS, tvOS and Windows operating systems, Kodi runs on most common processor architectures. \n Created in 2003 by a group of like minded programmers, Kodi is a non-profit project run by the XBMC Foundation and developed by volunteers located around the world. More than 500 software developers have contributed to Kodi to date, and 100-plus translators have worked to expand its reach, making it available in more than 70 languages. \n While Kodi functions very well as a standard media player application for your computer, it has been designed to be the perfect companion for your HTPC. With its beautiful interface and powerful skinning engine, Kodi feels very natural to use from the couch with a remote control and is the ideal solution for your home theater."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "com.libretro.RetroArch": {
+        "url": "https://buildbot.libretro.com/nightly/apple/ios-arm64/",
+        "name": "Retroarch",
+        "website": "https://www.retroarch.com/",
+        "source": "retroarch",
+        "file": "ipa",
+        "category": "game",
+        "icon": "https://raw.githubusercontent.com/libretro/RetroArch/master/media/icons/playstore/icon.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png",
+            "https://raw.githubusercontent.com/libretro/RetroArch/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png"
+        ],
+        "description": {
+            "en": "Retro games and emulators on your device! \n \n RetroArch is an open-source project that makes use of a powerful development interface called Libretro. Libretro is an interface that allows you to make cross-platform applications that can use rich features such as OpenGL, cross-platform camera support, location support, and more in the future. \n It comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment. \n Libretro and RetroArch are perfectly suited for creating games, emulators and multimedia programs."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "com.miketigas.OnionBrowser": {
+        "url": "https://github.com/OnionBrowser/OnionBrowser",
+        "name": "Onion Browser",
+        "website": "https://onionbrowser.com/",
+        "source": "github",
+        "file": "ipa",
+        "category": "internet",
+        "icon": "https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/2.X/Resources/Media.xcassets/AppIcon.appiconset/appicon_512.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/2.X/fastlane/screenshots/en-US/1_iphone6Plus_1.1.png",
+            "https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/2.X/fastlane/screenshots/en-US/2_iphone6Plus_2.2.png",
+            "https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/2.X/fastlane/screenshots/en-US/3_iphone6Plus_3.3.png",
+            "https://raw.githubusercontent.com/OnionBrowser/OnionBrowser/2.X/fastlane/screenshots/en-US/4_iphone6Plus_4.4.png"
+        ],
+        "description": {
+            "en": "Onion Browser is the original free and open-source Tor-powered web browser for iOS. Onion Browser helps you access the internet with more safety and privacy, and no extra cost to you. \n “The best Tor-related offering on iOS right now is Onion Browser” - The Daily Dot, October 14, 2015."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "com.mattermost.rnbeta": {
+        "url": "https://github.com/mattermost/mattermost-mobile",
+        "name": "Mattermost",
+        "website": "https://mattermost.com",
+        "source": "github",
+        "file": "ipa",
+        "category": "productivity",
+        "icon": "https://raw.githubusercontent.com/mattermost/mattermost-mobile/main/fastlane/metadata/android/en-US/images/icon.png",
+        "screenshots": [
+            "https://raw.githubusercontent.com/mattermost/mattermost-mobile/main/fastlane/metadata/android/en-US/images/tvBanner.png"
+        ],
+        "description": {
+            "en": "Mattermost is secure workplace messaging from behind your firewall. \n- Discuss topics in private groups, one-to-one or team-wide \n- Easily share and view image files \n- Connect in-house systems with webhooks and Slack-compatible integrations \nTo use this app, you need a URL for a Mattermost server."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "com.rileytestut.Delta": {
+        "url": "https://github.com/rileytestut/Delta",
+        "name": "Delta",
+        "website": null,
+        "source": "github",
+        "file": "ipa",
+        "category": "game",
+        "icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
+        "screenshots": [
+            "https://user-images.githubusercontent.com/705880/115471008-203aa480-a1ec-11eb-8aba-237a46799543.png"
+        ],
+        "description": {
+            "en": "Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS — a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together — rebuilt from the ground up with modern iOS features and support for more systems."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "org.provenance-emu.provenance": {
+        "url": "https://github.com/Provenance-Emu/Provenance",
+        "name": "Provenance",
+        "website": "https://provenance-emu.com/",
+        "source": "github",
+        "file": "ipa",
+        "category": "game",
+        "icon": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+        "screenshots": [
+            "https://user-images.githubusercontent.com/399864/140426554-fb786580-b36b-492d-b5f9-d806ca377508.jpeg"
+        ],
+        "description": {
+            "en": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "moe.mkpwnz.Hanami": {
+        "url": "https://github.com/oolxg/Hanami",
+        "name": "Hanami",
+        "website": null,
+        "source": "github",
+        "file": "ipa",
+        "category": "books",
+        "icon": "https://raw.githubusercontent.com/oolxg/Hanami/master/Hanami/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
+        "screenshots": [],
+        "description": {
+            "en": "Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "app.ehpanda": {
+        "url": "https://github.com/EhPanda-Team/EhPanda",
+        "name": "EhPanda",
+        "website": "https://ehpanda.app/",
+        "source": "github",
+        "file": "ipa",
+        "category": "books",
+        "icon": "https://user-images.githubusercontent.com/31207151/105609404-0acbff00-5de4-11eb-9e88-f3c6e0ba9d44.png",
+        "screenshots": [],
+        "description": {
+            "en": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": true
+    },
+    "org.telegram.Telegram-iOS": {
+        "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+        "name": "Telegram",
+        "website": "https://telegram.org/",
+        "source": "github",
+        "file": "ipa",
+        "category": "communication",
+        "icon": "https://raw.githubusercontent.com/TelegramMessenger/Telegram-iOS/master/Telegram/Telegram-iOS/IconDefault-83.5%402x.png",
+        "screenshots": [],
+        "description": {
+            "en": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    },
+    "app.ish.iSH": {
+        "url": "https://github.com/ish-app/ish",
+        "name": "iSH",
+        "website": null,
+        "source": "github",
+        "file": "ipa",
+        "category": "productivity",
+        "icon": "https://raw.githubusercontent.com/ish-app/ish/3b8a860ead5a23dd29667129b7c5b1b2ccb97719/app/Assets.xcassets/AppIcon.appiconset/App%20Store.png",
+        "screenshots": [
+            "https://camo.githubusercontent.com/9f65eca28081cc51e41ca56630cb9272c8ac8cdfe2216c3291febf6a87842319/68747470733a2f2f6973682e6170702f6173736574732f6769746875622d726561646d652e706e67"
+        ],
+        "description": {
+            "en": "A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation."
+        },
+        "open-source": true,
+        "ads": false,
+        "mtx": false,
+        "official": true,
+        "nsfw": false
+    }
+}
