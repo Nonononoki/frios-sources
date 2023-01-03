@@ -11,9 +11,9 @@
             "https://raw.githubusercontent.com/Alovoa/alovoa-expo/master/fastlane/metadata/android/en-US/images/phoneScreenshots/p1.png"
         ],
         "description": {
-            "en": "Native Android application for Alovoa, the open-source dating platform. \n \n Alovoa aims to be the first global open-source platform that enables people to easily find new friends and dates. \n Our promises: \n • No microtransaction \n • No annoying ads \n • No selling your data \n • Strict filters, only see people you want to see \n • Completely free (as in free speech) \n • Completely free (as in free beer)"
+            "en": "Native mobile application for Alovoa, the open-source dating platform. \n \n Alovoa aims to be the first global open-source platform that enables people to easily find new friends and dates. \n Our promises: \n • No microtransaction \n • No annoying ads \n • No selling your data \n • Strict filters, only see people you want to see \n • Completely free (as in free speech) \n • Completely free (as in free beer)"
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -36,7 +36,7 @@
         "description": {
             "en": "Kodi is an award-winning free and open source software media player and entertainment hub for digital media. Available as a native application for Android, Linux, BSD, macOS, iOS, tvOS and Windows operating systems, Kodi runs on most common processor architectures. \n Created in 2003 by a group of like minded programmers, Kodi is a non-profit project run by the XBMC Foundation and developed by volunteers located around the world. More than 500 software developers have contributed to Kodi to date, and 100-plus translators have worked to expand its reach, making it available in more than 70 languages. \n While Kodi functions very well as a standard media player application for your computer, it has been designed to be the perfect companion for your HTPC. With its beautiful interface and powerful skinning engine, Kodi feels very natural to use from the couch with a remote control and is the ideal solution for your home theater."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -59,7 +59,7 @@
         "description": {
             "en": "Retro games and emulators on your device! \n \n RetroArch is an open-source project that makes use of a powerful development interface called Libretro. Libretro is an interface that allows you to make cross-platform applications that can use rich features such as OpenGL, cross-platform camera support, location support, and more in the future. \n It comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment. \n Libretro and RetroArch are perfectly suited for creating games, emulators and multimedia programs."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -82,7 +82,7 @@
         "description": {
             "en": "Onion Browser is the original free and open-source Tor-powered web browser for iOS. Onion Browser helps you access the internet with more safety and privacy, and no extra cost to you. \n “The best Tor-related offering on iOS right now is Onion Browser” - The Daily Dot, October 14, 2015."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -102,7 +102,7 @@
         "description": {
             "en": "Mattermost is secure workplace messaging from behind your firewall. \n- Discuss topics in private groups, one-to-one or team-wide \n- Easily share and view image files \n- Connect in-house systems with webhooks and Slack-compatible integrations \nTo use this app, you need a URL for a Mattermost server."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -122,7 +122,7 @@
         "description": {
             "en": "Delta is an iOS application that allows you to emulate and play video games for several classic video game systems, including Game Boy Advance, Nintendo 64, and Nintendo DS. Delta is the spiritual successor to GBA4iOS — a Game Boy Advance emulator for iOS devices Paul Thorsen and I made while in high school together — rebuilt from the ground up with modern iOS features and support for more systems."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -142,7 +142,7 @@
         "description": {
             "en": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -160,7 +160,7 @@
         "description": {
             "en": "Manga reading app for iOS/iPadOS written with SwiftUI and Composable Architecture."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -178,7 +178,7 @@
         "description": {
             "en": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -196,7 +196,7 @@
         "description": {
             "en": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
@@ -216,7 +216,7 @@
         "description": {
             "en": "A project to get a Linux shell running on iOS, using usermode x86 emulation and syscall translation."
         },
-        "open-source": true,
+        "opensource": true,
         "ads": false,
         "mtx": false,
         "official": true,
