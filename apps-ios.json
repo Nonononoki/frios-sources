@@ -205,7 +205,7 @@
         "description": {
             "en": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users."
         },
-        "opensource": true,
+        "opensource": false,
         "ads": false,
         "mtx": false,
         "official": true,
