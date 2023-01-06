@@ -208,7 +208,7 @@
         },
         "opensource": false,
         "ads": false,
-        "mtx": false,
+        "mtx": true,
         "official": true,
         "nsfw": false
     },
