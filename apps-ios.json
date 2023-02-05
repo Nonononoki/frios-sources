@@ -232,5 +232,24 @@
         "mtx": false,
         "official": true,
         "nsfw": false
-    }
+    },
+    "xyz.skitty.Aidoku": {
+        "url": "https://github.com/Aidoku/Aidoku",
+        "name": "Aidoku",
+        "website": "https://aidoku.app/",
+        "source": "github",
+        "author": "Skitty",
+        "file": "ipa",
+        "category": "books",
+        "icon": "https://raw.githubusercontent.com/Aidoku/Aidoku/main/Shared/Assets.xcassets/AppIcon.appiconset/Icon.png",
+        "screenshots": ["https://aidoku.app/images/library.png", "https://aidoku.app/images/source.png", "https://aidoku.app/images/reader.png"],
+        "description": {
+            "en": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users."
+        },
+        "opensource": false,
+        "ads": false,
+        "mtx": true,
+        "official": true,
+        "nsfw": false
+    },
 }
